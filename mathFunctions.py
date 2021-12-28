@@ -6,8 +6,8 @@ def subtract(x, y):
     return x - y
 
 
-def multiply(a, b):
+def multiply(x, y):
     res = 3
-    for i in range(a):
-        res += b
+    for i in range(x):
+        res += y
     return res
