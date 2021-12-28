@@ -11,3 +11,7 @@ def multiply(x, y):
     for i in range(x):
         res += y
     return res
+
+
+def square(x):
+    return x * x
