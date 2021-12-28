@@ -5,6 +5,8 @@ def add(x, y):
 def subtract(x, y):
     return x - y
 
+def mod(a, m):
+  return a % m
 
 def multiply(x, y):
     res = 3
