@@ -7,7 +7,4 @@ def subtract(x, y):
 
 
 def multiply(x, y):
-    res = 3
-    for i in range(x):
-        res += y
-    return res
+    print("i dont like this function")
