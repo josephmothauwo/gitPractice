@@ -7,7 +7,7 @@ def subtract(x, y):
 
 
 def multiply(x, y):
-    res = 0
+    res = 3
     for i in range(x):
         res += y
     return res
